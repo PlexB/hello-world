@@ -1,6 +1,6 @@
 # hello-world
 
-Hey man @github\Jan2403
+Hey man @Jan2403
 
 ## code
 ```vhdl
