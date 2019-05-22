@@ -23,4 +23,4 @@ This text is **fett**
 
 ### Link
 
-[instructions]
+[Google](http://www.google.de)
