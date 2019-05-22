@@ -13,5 +13,10 @@ Just another repository
 | - | - | - |
 | a | b | c |
 
-## Background
+## Text Formatting
+
+## Grey Background
 It is done like `this`
+
+### Fett
+This text is **fett**
