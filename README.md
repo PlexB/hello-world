@@ -14,4 +14,4 @@ Just another repository
 | a | b | c |
 
 ## Background
-It is done like 'this'
+It is done like `this`
