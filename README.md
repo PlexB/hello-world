@@ -15,7 +15,7 @@ Just another repository
 
 ## Text Formatting
 
-## Grey Background
+### Grey Background
 It is done like `this`
 
 ### Fett
